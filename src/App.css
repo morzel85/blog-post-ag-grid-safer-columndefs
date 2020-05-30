@@ -1,0 +1,18 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  padding: 10px;
+}
+
+.App .ag-theme-balham {
+  flex: 1;
+}
+
+.App .about {  
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+  font-size: 10px;  
+  font-weight: bold;
+}
