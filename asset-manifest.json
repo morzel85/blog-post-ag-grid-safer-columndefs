@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/blog-post-ag-grid-safer-columndefs/static/css/main.7daa3629.chunk.css",
+    "main.js": "/blog-post-ag-grid-safer-columndefs/static/js/main.c7135db8.chunk.js",
+    "main.js.map": "/blog-post-ag-grid-safer-columndefs/static/js/main.c7135db8.chunk.js.map",
+    "runtime-main.js": "/blog-post-ag-grid-safer-columndefs/static/js/runtime-main.d2d83fdd.js",
+    "runtime-main.js.map": "/blog-post-ag-grid-safer-columndefs/static/js/runtime-main.d2d83fdd.js.map",
+    "static/css/2.79d438a5.chunk.css": "/blog-post-ag-grid-safer-columndefs/static/css/2.79d438a5.chunk.css",
+    "static/js/2.82d23700.chunk.js": "/blog-post-ag-grid-safer-columndefs/static/js/2.82d23700.chunk.js",
+    "static/js/2.82d23700.chunk.js.map": "/blog-post-ag-grid-safer-columndefs/static/js/2.82d23700.chunk.js.map",
+    "index.html": "/blog-post-ag-grid-safer-columndefs/index.html",
+    "precache-manifest.d91b216869cc776545b5078e8393dd10.js": "/blog-post-ag-grid-safer-columndefs/precache-manifest.d91b216869cc776545b5078e8393dd10.js",
+    "service-worker.js": "/blog-post-ag-grid-safer-columndefs/service-worker.js",
+    "static/css/2.79d438a5.chunk.css.map": "/blog-post-ag-grid-safer-columndefs/static/css/2.79d438a5.chunk.css.map",
+    "static/css/main.7daa3629.chunk.css.map": "/blog-post-ag-grid-safer-columndefs/static/css/main.7daa3629.chunk.css.map",
+    "static/js/2.82d23700.chunk.js.LICENSE.txt": "/blog-post-ag-grid-safer-columndefs/static/js/2.82d23700.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2d83fdd.js",
+    "static/css/2.79d438a5.chunk.css",
+    "static/js/2.82d23700.chunk.js",
+    "static/css/main.7daa3629.chunk.css",
+    "static/js/main.c7135db8.chunk.js"
+  ]
+}
