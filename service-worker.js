@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/blog-post-ag-grid-safer-columndefs/precache-manifest.d91b216869cc776545b5078e8393dd10.js"
+  "/blog-post-ag-grid-safer-columndefs/precache-manifest.4ced89c0b1ca2accd6cebd9718cc71d7.js"
 );
 
 self.addEventListener('message', (event) => {
